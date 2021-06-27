@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RanderikaJohnson
-- 👀 I’m inteerested in video game development.
+- 👀 I’m interested in video game development.
 - 🌱 I’m currently learning Javascript, html, css,react, and ruby on rails.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
