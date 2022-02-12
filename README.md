@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RanderikaJohnson
 - 👀 I’m interested in frontend Development.
-- 🌱 I’m currently learning Javascript, html, css,and Javascript.
+- 🌱 I’m currently learning html, css,and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
